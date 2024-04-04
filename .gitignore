@@ -1,0 +1,5 @@
+/workspaces/challenge1/ny_taxi_postgres_data
+/workspaces/challenge1/green_tripdata_2019-09.csv.gz
+/workspaces/challenge1/taxi+_zone_lookup.csv
+/workspaces/challenge1/main.tf
+/workspaces/challenge1/variables.tf

@@ -1,0 +1,3 @@
+[31margument of HAVING must be type boolean, not type double precision
+LINE 1: ...atetime,trip_distance FROM green_taxi_data HAVING MAX(trip_d...
+                                                             ^[0m
